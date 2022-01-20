@@ -31,7 +31,7 @@ def predict():
         CARPARKING = int(request.form['car parking'])
         print('f2')
         FACING= str(request.form['facing'])
-        print('f3')
+        print('f3') 
         FLOORNO = int(request.form['floor no'])
         print('f4')
         TOTALFLOORS = int(request.form['total floors'])
