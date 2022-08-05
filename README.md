@@ -17,7 +17,7 @@ Built a client facing API using flask and with the help of Heroku.
 
      2.1 Features with Null value<br />
      2.2 Numerical Features<br />
-           2.2.1 Year Features<br />
+          "/t" 2.2.1 Year Features<br />
            2.2.2 Discrete Features<br /> 
           2.2.3 Continous Features <br />
    
