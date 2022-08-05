@@ -21,7 +21,7 @@ Built a client facing API using flask and with the help of Heroku.
    2.2.2 Discrete Features    
    2.2.3 Continous Features 
    
-2.3 Categorical Features
+ 2.3 Categorical Features
 
 3. Data Cleaning
 
