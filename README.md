@@ -16,7 +16,8 @@ Built a client facing API using flask and with the help of Heroku.
 2. Data Exploration <br />
 
      &nbsp;2.1 Features with Null value<br />
-     &nbsp;2.2 Numerical Features<br /><br />
+     
+     &nbsp;2.2 Numerical Features<br />
            &nbsp;&nbsp;&nbsp; 2.2.1 Year Features<br />
            &nbsp;&nbsp;&nbsp; 2.2.2 Discrete Features<br /> 
            &nbsp;&nbsp;&nbsp; 2.2.3 Continous Features <br />
