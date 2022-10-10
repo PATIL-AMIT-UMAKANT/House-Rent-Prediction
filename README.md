@@ -8,7 +8,6 @@ Using ML Algorithm We Got the best Accuracy.
 
 Built a client facing API using flask and with the help of Heroku.
 
-
 **Steps in House Price Prediction**
 
 1. Loading data
